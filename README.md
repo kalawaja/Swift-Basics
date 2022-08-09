@@ -1,5 +1,7 @@
 # Swift-Basics
-Swift Basics Practice Notes
+## Swift Basics Practice Notes
+
+### Variables
 
 import UIKit
 
