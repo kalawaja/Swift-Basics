@@ -8,10 +8,10 @@ import UIKit
 
 var firstName="Ramazan"
 var lastName="İlter"
-print(firstName,lastName) # "Ramazan İlter\n"
+print(firstName,lastName)     # "Ramazan İlter\n"
 var userName="kalawaja"
-userName.uppercased()     # "KALAWAJA"
-userName.append("1")      # "kalawaja1"
+userName.uppercased()         # "KALAWAJA"
+userName.append("1")          # "kalawaja1"
 ```
 
 ```swift
