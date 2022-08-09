@@ -25,8 +25,8 @@ let myFirstNumber=40
 let mySecondNumber=7
 myFirstNumber/mySecondNumber          # 5 (* Default Result)
 ```
-> `var internetWebDeveloperNumber=10`       //camelCase  
-> `var internet_web_developer_number=15`    //snake_case
+> `var internetWebDeveloperNumber=10`               //camelCase  
+> `var internet_web_developer_number=15`            //snake_case
 
 ```swift
 //Double
